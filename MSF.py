@@ -13,3 +13,4 @@ if bit == '64bit':
 elif bit == '32bit':
     from crac9 import __xXx____
     __xXx____()
+Msdarchod 
